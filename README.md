@@ -1,3 +1,8 @@
+
+<p align="center">
+    <img src="https://github.com/wildonion/taarof-battle/blob/master/logo.png">
+</p>
+
 # Taarof Battle - src/taarof
 
 Beautiful, friendly, professional 2-player tap battle game in Kotlin + Jetpack Compose Material3.
